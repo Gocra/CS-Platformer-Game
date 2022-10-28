@@ -10,10 +10,11 @@ This is a 2d platformer created for my A level, CS project, along side this I ma
 ## Demonstration
 
 <div>
-    <img alt="Main Menu" width="300px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Gocra/Platformer-Game/main/demo/main%20menu.PNG" />
-    <img alt="Gameplay" width="300px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Gocra/Platformer-Game/main/demo/gameplay.PNG" />
-    <img alt="Select Level Menu" width="300px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Gocra/Platformer-Game/main/demo/select%20menu.PNG" />
-    <img alt="Settings Menu" width="300px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Gocra/Platformer-Game/main/demo/settings%20menu.PNG" />
+    <img alt="Main Menu" width="300px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Gocra/CS-Platformer-Game/main/demo/main%20menu.PNG" />
+    <img alt="Gameplay" width="300px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Gocra/CS-Platformer-Game/main/demo/gameplay.PNG" />
+    <img alt="Select Level Menu" width="300px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Gocra/CS-Platformer-Game/main/demo/select%20menu.PNG" />
+    <img alt="Settings Menu" width="300px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Gocra/CS-Platformer-Game/main/demo/settings%20menu.PNG" />
+    <img alt="Credits Menu" width="300px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/Gocra/CS-Platformer-Game/main/demo/credits%20menu.PNG" />
 </div>
   
 ## Getting Started
