@@ -5,7 +5,7 @@ This is the final state of the project, I will not be adding to it or providing 
 
 ## About
 
-This is a 2d platformer created for my A level, CS project, along side this I made a level editor to create levels for this game (https://github.com/Gocra/Level-Editor). The character must kill or avoid enemies and pitfalls. The player must traverse the map and reach the end of the level.
+This is a 2d platformer created for my A level, CS project, along side this I made a level editor to create levels for this game (https://github.com/Gocra/CS-Level-Editor). The character must kill or avoid enemies and pitfalls. The player must traverse the map and reach the end of the level.
 
 ## Demonstration
 
