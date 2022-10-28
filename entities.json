@@ -1,0 +1,12 @@
+{
+    "PLAYER" : {
+        "speed" : 6,
+        "jump_height" : -16,
+        "health" : 2,
+        "inv_timer_limit" : 80
+    },
+    "ENEMY" : {
+        "speed" : 3,
+        "health" : 1
+    }
+}
