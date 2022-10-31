@@ -8,7 +8,7 @@ WINDOW_HEIGHT = TILE_SIZE * 18
 LEVEL_BG_COLOR = (131, 197, 247)
 
 __GITHUB_URL__ = "https://github.com/Gocra"
-__GITHUB_CODE_URL__ = "https://github.com/Gocra/Platformer-Game"
+__GITHUB_CODE_URL__ = "https://github.com/Gocra/CS-Platformer-Game"
 
 __MENU_MESSAGE__ = "MADE BY GOCRA"
 LINK_COLOR = LEVEL_BG_COLOR
