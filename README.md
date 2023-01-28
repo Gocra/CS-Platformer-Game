@@ -30,6 +30,7 @@ This project does not contain any installer or alternative method to run the pro
 
 ### Art
 
+> [pipoya itch.io](https://pipoya.itch.io) - [RPG Character Sprites](https://pipoya.itch.io/pipoya-free-rpg-character-sprites-32x32)
 > [vectorpixelstar itch.io](https://vectorpixelstar.itch.io) - [Tilemap](https://vectorpixelstar.itch.io/textures) <br />
 > [temok itch.io](https://temok.itch.io/) - [Animated Heart Container In Pixel Art](https://temok.itch.io/heart-container-animated-in-pixel-art) <br />
 > [iopn itch.io](https://iopn.itch.io/) - [UI Buttons - Pixel art](https://iopn.itch.io/ui-buttons-pixel-art) <br />
